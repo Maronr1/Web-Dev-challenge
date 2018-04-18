@@ -1,0 +1,86 @@
+body{
+background-image: url(img/2.jpg);
+background-size: 100%;
+min-height: 4240px;
+
+}
+
+#agency{
+position: absolute;
+left: 40px;
+top: 25px;
+color: #ffffff;
+font-family: Lato,sans-serif;
+font-size: 40px;
+}
+#menu{
+position: absolute;
+top: 30px;
+left: 550px;
+color: #ffffff;
+font-family: Lato,sans-serif;
+font-size: 16px;
+font-weight: bold;
+}
+#menu ul li{
+ list-style: none;
+ display: inline;
+ margin: 8px;
+ color: #ffffff;
+}
+
+a{
+text-decoration: none;
+color: #ffffff;
+}
+
+#ikonka1{
+position: absolute;
+left: 1230px;
+top: 43px;
+font-size: 25px;
+}
+
+#ikonka2{
+position: absolute;
+left: 1270px;
+top: 44px;
+font-size: 22px;
+}
+
+#button {
+position: absolute;
+top: 520px;
+left: 350px;
+
+}
+#macbook {
+position: absolute;
+top: 820px;
+left: 550px;
+
+}
+
+#macbook img{
+width: 85%; 
+height: 85%;
+}
+#who {
+position: absolute;
+top: 750px;
+left: 170px;
+max-width: 400px;
+}
+h3{
+font-family: fantasy;
+font-size: 60px;
+font-weight: 900;
+color: #494949;
+
+}
+#who p{
+margin-left: 10px;
+font-size: 18px;
+font-family: "Open Sans",sans-serif;
+    color: #6a6a6a;
+}
